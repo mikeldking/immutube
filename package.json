@@ -1,0 +1,22 @@
+{
+  "name": "immutube",
+  "version": "0.0.0",
+  "description": "YouTube video browser using hardcore functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeldking/immutube.git"
+  },
+  "author": "begriffs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeldking/immutube/issues"
+  },
+  "homepage": "https://github.com/mikeldking/immutube",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

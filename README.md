@@ -8,7 +8,7 @@ search :: [Char] -> Future Maybe [CatVideo]
 
 ```sh
 bower install
-python -m SimpleHTTPServer
+node index.js
 ```
 
 Then visit `http://localhost:8000`.
